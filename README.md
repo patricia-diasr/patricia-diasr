@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Patrícia Dias 🖐️✨
 
-Apaixonada por tecnologia, sou formada em Técnico em Desenvolvimento de Sistemas pela Etec Sales Gomes. Nesse momento, estou iniciando meu primeiro período de Engenharia de Software na Infnet. Tenho uma grande paixão por explorar o vasto mundo do desenvolvimento de software, e estou constantemente em busca de novos desafios e oportunidades de aprendizado.
+Sou formada em Técnico em Desenvolvimento de Sistemas pela Etec Sales Gomes. Nesse momento, estou iniciando meu primeiro período de Engenharia de Software na Infnet. Tenho uma grande paixão por explorar o vasto mundo do desenvolvimento de software, e estou constantemente em busca de novos desafios e oportunidades de aprendizado.
 
 <br/>
 
