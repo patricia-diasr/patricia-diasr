@@ -33,11 +33,3 @@ I hold a degree in Systems Development Technician from Etec Sales Gomes. Current
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patricia-diasr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-dias-rodrigues-0130332b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF1053?style=for-the-badge&logo=todoist&logoColor=white)](https://patricia-diasr.github.io/Portfolio/pt)
-
-<br/>
-
-## ✨ Highlighted Projects
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=patricia-diasr&repo=calculadora&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/patricia-diasr/calculadora)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=patricia-diasr&repo=todo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/patricia-diasr/todo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=patricia-diasr&repo=delivery&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/patricia-diasr/delivery)
