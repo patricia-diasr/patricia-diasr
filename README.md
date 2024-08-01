@@ -1,6 +1,6 @@
 ### Hello! I'm Patrícia Dias 🖐️✨
 
-I hold a degree in Systems Development Technician from Etec Sales Gomes. Currently, I'm in my first semester of Software Engineering at Infnet. I have a great passion for exploring the vast world of software development, and I'm constantly seeking new challenges and learning opportunities.
+I hold a degree in Systems Development Technician from Etec Sales Gomes. Currently, I'm in my second semester of Software Engineering at Infnet. I have a great passion for exploring the vast world of software development, and I'm constantly seeking new challenges and learning opportunities.
 
 <br/>
 
@@ -20,12 +20,6 @@ I hold a degree in Systems Development Technician from Etec Sales Gomes. Current
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <br/>
-
-## 🌱 Currently Studying
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br/>
 
